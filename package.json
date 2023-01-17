@@ -1,6 +1,7 @@
 {
   "name": "uniswap-tools",
   "version": "0.1.0",
+  "homepage": "https://myusername.github.io/public",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
